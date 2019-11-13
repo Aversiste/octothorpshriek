@@ -1,0 +1,120 @@
+.1 0 0 1884 Vnimaniye ! Vnimaniy
+.1 0 1 1555 e ! Vnimaniye ! 0ReU
+.1 0 2 1743 H Konets peredachi.
+.2 0 0 1911 Pour agir librement,
+.2 0 1 1841  encore faut-il agir
+.2 0 2 1809  en connaissance de 
+.2 0 3 1846 cause et non etre le
+.2 0 4 1791  jouet de forces qu'
+.2 0 5 1786 on ne comprend pas. 
+.2 0 6 1936 C’est parce qu'il co
+.2 0 7 1881 nnait les vents que 
+.2 0 8 1998 le marin experimente
+.2 0 9 1786  arrive a bon port l
+.2 0 10 1872 a ou le neophyte ris
+.2 0 11 1834 que le naufrage et l
+.2 0 12 1714 a mort. L'ignorant, 
+.2 0 13 1863 soit celui qui ne sa
+.2 0 14 1769 it pas, ne semble pa
+.2 0 15 1957 s pouvoir etre libre
+.2 0 16 1834 . Cependant, il para
+.2 0 17 1924 it necessaire aussi 
+.2 0 18 1864 de penser qu'etre li
+.2 0 19 1720 bre, c'est choisir, 
+.2 0 20 1737 qu'on sache ou non, 
+.2 0 21 1875 de sorte que l'ignor
+.2 0 22 1835 ant en ce sens serai
+.2 0 23 1892 t tout aussi libre q
+.2 0 24 1757 ue le savant. Des lo
+.2 0 25 1801 rs, on peut se deman
+.2 0 26 1857 der si l'ignorant pe
+.2 0 27 1855 ut etre libre et com
+.2 0 28 1771 ment ou bien si la l
+.2 0 29 2036 iberte presuppose to
+.2 0 30 1924 ujours un savoir, et
+.2 0 31 1771  lequel. L'ignorant 
+.2 0 32 1832 parait le jouet de f
+.2 0 33 1891 orces, externes ou i
+.2 0 34 1900 nternes, qu'il ignor
+.2 0 35 1687 e ; mais doue de lib
+.2 0 36 1791 re arbitre, il peut 
+.2 0 37 1989 agir sans connaissan
+.2 0 38 1687 ce ; tout au moins, 
+.2 0 39 1927 il peut participer a
+.2 0 40 1786  la vie politique, a
+.2 0 41 1956 voir des opinions et
+.2 0 42 1745  etre libre en ce se
+.2 0 43 271 ns.
+.3 0 0 1929 Lorem ipsum dolor si
+.3 0 1 1878 t amet, consectetur 
+.3 0 2 1875 adipiscing elit. Sed
+.3 0 3 1882  non risus. Suspendi
+.3 0 4 1909 sse lectus tortor, d
+.3 0 5 1863 ignissim sit amet, a
+.3 0 6 2932 dipiscing nec, ultri
+.3 0 7 1744 cies sed, dolor. Cra
+.3 0 8 2026 s elementum ultrices
+.3 0 9 1783  diam. Maecenas ligu
+.3 0 10 1717 la massa, varius a, 
+.3 0 11 1948 semper congue, euism
+.3 0 12 1717 od non, mi. Proin po
+.3 0 13 1892 rttitor, orci nec no
+.3 0 14 1965 nummy molestie, enim
+.3 0 15 1767  est eleifend mi, no
+.3 0 16 1926 n fermentum diam nis
+.3 0 17 1759 l sit amet erat. Dui
+.3 0 18 1773 s semper. Duis arcu 
+.3 0 19 1948 massa, scelerisque v
+.3 0 20 1797 itae, consequat in, 
+.3 0 21 1771 pretium a, enim. Pel
+.3 0 22 1934 lentesque congue. Ut
+.3 0 23 1912  in risus volutpat l
+.3 0 24 1997 ibero pharetra tempo
+.3 0 25 1851 r. Cras vestibulum b
+.3 0 26 1892 ibendum augue. Praes
+.3 0 27 1850 ent egestas leo in p
+.3 0 28 1864 ede. Praesent blandi
+.3 0 29 1757 t odio eu enim. Pell
+.3 0 30 1873 entesque sed dui ut 
+.3 0 31 1965 augue blandit sodale
+.3 0 32 1858 s. Vestibulum ante i
+.3 0 33 1944 psum primis in fauci
+.3 0 34 1893 bus orci luctus et u
+.3 0 35 2012 ltrices posuere cubi
+.3 0 36 1785 lia Curae; Aliquam n
+.3 0 37 1812 ibh. Mauris ac mauri
+.3 0 38 1913 s sed pede pellentes
+.3 0 39 1895 que fermentum. Maece
+.3 0 40 1893 nas adipiscing ante 
+.3 0 41 1900 non diam sodales hen
+.3 0 42 696 drerit.
+.4 0 0 1049 3,141592653589793238
+.4 0 1 1054 46264338327950288419
+.4 0 2 1064 71693993751058209749
+.4 0 3 1045 44592307816406286208
+.4 0 4 1048 99862803482534211706
+.4 0 5 1043 79197171382413215741
+.4 0 6 1044 16438601247509881380
+.4 0 7 1040 20954423812066108748
+.4 0 8 1045 42225845596611546181
+.4 0 9 1045 49101465844237591084
+.4 0 10 1063 06336320996398487467
+.4 0 11 1035 01130055509806927176
+.4 0 12 1039 46050762150947774005
+.4 0 13 1032 70540794085023490104
+.4 0 14 1046 98560512484230805259
+.4 0 15 1067 39673630748759172992
+.4 0 16 1046 38060680249291673660
+.4 0 17 1039 08221692864241631518
+.4 0 18 1050 68050454134449449349
+.4 0 19 1023 43284104022651311259
+.4 0 20 1046 16794799111631530940
+.4 0 21 1043 56901037119685683023
+.4 0 22 1051 56590524243717329629
+.4 0 23 1053 75776732112453838040
+.4 0 24 1077 64439129793895989129
+.4 0 25 1052 57443247948681350327
+.4 0 26 1033 82351510126301598292
+.4 0 27 1067 99798147337842616643
+.4 0 28 1259 43970942137715767656
+.4 0 29 1071 96361374339186683988
