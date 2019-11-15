@@ -49,13 +49,12 @@ Ne pas se jeter sur StackOverflow, les [pages de man](http://man.openbsd.com/) s
 
 ### Comment est-ce qu'on découpe une ligne en fragments ?
 
-    $ man [cut](http://man.openbsd.com/cut)
+Avec [cut](http://man.openbsd.com/cut).
 
 ### Comment est-ce que l'on peut convertir d'une base vers une autre ?
 
-    $ man [bc](http://man.openbsd.com/bc)
+Avec [bc](http://man.openbsd.com/bc).
 
 ### Comment est-ce que l'on peut supprimer des caractères inutiles ?
 
-    $ man [tr](http://man.openbsd.com/tr)	# Plus simple
-    $ man [sed](http://man.openbsd.com/sed)	# Plus difficile
+Avec [tr](http://man.openbsd.com/tr) ou encore [sed](http://man.openbsd.com/sed).
