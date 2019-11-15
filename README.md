@@ -23,8 +23,9 @@ Du matériel d'espionnage complètement obsolète provenant d'un stock de la gue
 
 Chaque défi implémenté en respectant les interfaces demandées rapporte 10 points et la victoire est atteinte lorsque le code secret peut être décodé de la façon suivante:
 
+    $ ./antenna -f data/radio.txt
     $ cyphertext=...
-    $ ./decoder -m "$cyphertext" "$(./cardreader -f key.card)" | ./dot-matrix
+    $ ./decoder -m "$cyphertext" "$(./cardreader -f data/key.card)" | ./dot-matrix -f data/default.font
 
 Le fichier `key.card` contient la clef utilisée pour chiffrer le message secret transmis par radio.
 Le fichier `radio.txt` comprend un dump du protocole radio utilisé pour transmettre le message secret.
