@@ -25,7 +25,7 @@ Exemple:
 
 Les cartes perforées de notre machine sont de longs rubans de papier percés de rangées de trous circulaires.
 Ces derniers, aux nombres maximum de sept, permettent d'encoder des valeurs sur 7-bits.
-Une huitième colonne, laissée vide et inusités, est là pour une évolution future de l'appareil.
+Une huitième colonne, laissée vide et inusitée, est là pour une évolution future de l'appareil.
 Un trou suplémentaire, plus petit, est situé entre le troisième et quatrième trou en partant de la droite: il s'agit du guide d'entrainement du mécanisme de lecture.
 Le bit le plus faible est par ailleurs situé tout à droite.
 
@@ -38,12 +38,11 @@ Chaque rangée est donc positionnée ainsi:
 
 Exemples:
 
-    # le nombre un
-    |    .  o|
-    # le nombre deux
-    |    . o |
-    # le nombre trois
-    |    . oo|
+    
+    |    .  o| # le nombre un
+    |    . o | # le nombre deux
+    |    . oo| # le nombre trois
+    | oo .  o| # le nombre 97 ou la lettre « a » dans la table ASCII
 
 Chaque bande commence et termine par une série de tirets.
 
